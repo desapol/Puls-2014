@@ -1,0 +1,3 @@
+Mis notas:
+
+1. Esta es una prueba para corroborar el buen funcionamiento de Github como repositorio de Versiones.
